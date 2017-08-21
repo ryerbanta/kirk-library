@@ -1,4 +1,16 @@
-name: Kirk Library
-markdown: kramdown
+# Setup
+title: Kirk Library
+tagline: Research at Centralia College
+url:  https://ryerbanta.github.io/kirk-library
+paginate: 1
+baseurl: "/kirk-library"
+
+# Theme
 theme: jekyll-theme-slate
-permalink: /kirk-library/blog/:year/:month/:day/:title
+
+
+# Permalinks
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           :title
+relative_permalinks: true
+
