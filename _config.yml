@@ -12,5 +12,5 @@ theme: jekyll-theme-slate
 # Permalinks
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           :title
-relative_permalinks: true
+
 
