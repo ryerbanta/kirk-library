@@ -6,7 +6,7 @@ paginate: 1
 baseurl: "/kirk-library"
 
 # Theme
-theme: jekyll-theme-slate
+theme: jekyll-theme-architect
 
 
 # Permalinks
